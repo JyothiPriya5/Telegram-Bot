@@ -72,11 +72,11 @@ Google CX API 🔍
 
 🏗️ Future Enhancements
 
-✅ Sentiment analysis for better responses 
+✅ Sentiment analysis for better responses 💡
 
-💡✅ Auto-translation for multilingual support 
+✅ Auto-translation for multilingual support 🌍
 
-🌍✅ Dashboard for user analytics 📊
+✅ Dashboard for user analytics 📊
 
 🤝 Contributing
 
