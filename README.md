@@ -21,6 +21,7 @@ Ensure python,MongoDB are installed
 1️⃣ Clone the Repository
 
 git clone https://github.com/JyothiPriya5/Telegram-Bot.git
+
 cd Telegram-Bot
 
 2️⃣ Install Dependencies
@@ -34,9 +35,13 @@ pip install python-telegram-bot pymongo google-generativeai requests
 Create a .env file and add your credentials:
 
 BOT_TOKEN=your_telegram_bot_token               //Get from telegram BotFather
+
 MONGO_URI=your_mongodb_connection_string        // download here https://www.mongodb.com/try/download/community and install MongoDB compass(ensure to enable automatically download)
+
 GEMINI_API_KEY=your_google_gemini_api_key       // create api key from https://aistudio.google.com/
+
 GOOGLE_SEARCH_API_KEY=your_google_cx_api_key    // create api key from Google Cloud Console.
+
 GOOGLE_SEARCH_CX=your_google_cx_engine_id       // create cx id here https://cse.google.com/cse/
 
 4️⃣ Run the Bot
